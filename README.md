@@ -17,6 +17,7 @@ Initial Meetings 2021-02-18
 
 ## AGENDA
 	* Quick introductions
+	* Sharing Best Practices info more widely
 	* Governance ideas for this group
 	* Adding to/Updating Repositories Fact Sheet
 	* Presentation: Allen Lee, CoMSES Net CodeMeta Support
