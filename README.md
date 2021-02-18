@@ -19,7 +19,7 @@ Initial Meetings 2021-02-18
 	* Quick introductions
 	* Governance ideas for this group
 	* Adding to/Updating Repositories Fact Sheet
-	* Presentation (TBD)
+	* Presentation: Allen Lee, CoMSES Net CodeMeta Support
 	* Future meeting times
 
 ## Notes
