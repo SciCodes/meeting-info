@@ -1,7 +1,7 @@
-SciCodes Meeting Motes
+SciCodes Meeting Information
 =============================================
 
-This repository holds notes (or links to meeting notes) about SciCodes
+This repository holds information and links to SciCodes meeting notes
 
 
 
